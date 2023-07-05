@@ -1,5 +1,4 @@
 # Virtual Colonoscopy
-Final Project
 
 __________________________________________________________________________________________________________________
 Implementation of a virtual CT (specifically part of the colon) to detect abnormalities, such as benign tumor (polyps) and/or cancerous tumor; the algorithms were developed using python. Furthermore, the algorithm would essentially imitate the performance of a CT scanner in various orientations. 

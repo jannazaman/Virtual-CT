@@ -1,8 +1,7 @@
 # Virtual Colonoscopy
-
-__________________________________________________________________________________________________________________
 Implementation of a virtual CT (specifically part of the colon) to detect abnormalities, such as benign tumor (polyps) and/or cancerous tumor; the algorithms were developed using python. Furthermore, the algorithm would essentially imitate the performance of a CT scanner in various orientations. 
 We created a system that collects numerous projections along different orientations upon image slicing. It would consist of the code slicing the phantom image diagonally, horizontally, and vertically.
+__________________________________________________________________________________________________________________
 
 ### Instructions on how to run the code:
 1) Press the run button.

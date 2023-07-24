@@ -17,7 +17,7 @@ ________________________________________________________________________________
 4) Fourthly, it will display the image that have been cut and put it back together.
 5) Lastly, close the first pop window then close the result image window after the ouput images will display.
 
-### Notes:
+## Notes:
 - ***All of the code is in "main.py" file.***
 - ***Images can be found inside the "output" folder, original.png is before tumor just colon, phantom.png is the one with a tumor inside the colon.***
 - ***For the slice type ONLY ONE can be run at once.***

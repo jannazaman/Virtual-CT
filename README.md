@@ -11,10 +11,10 @@ ________________________________________________________________________________
 5) Enter the number of slices, a integer value 1-255 anything else will be too few cuts or too many cuts.
 
 ### Process while running the code:
-1) Firstly, will display an image of the orginal phantom with the colon.
-2) Secondly, then will ask for standard input and standard output (STDIN).
-3) Thirdly, it will then create amount of the images wanted to be sliced.
-4) Fourthly, it will display the image that have been cut and put it back together.
+1) Firstly, i will display an image of the orginal phantom with the colon.
+2) Then will ask for standard input and standard output (STDIN).
+3) Third, it will then create amount of the images wanted to be sliced.
+4) Then it will display the image that have been cut and put it back together.
 5) Lastly, close the first pop window then close the result image window after the ouput images will display.
 
 ## Notes:
